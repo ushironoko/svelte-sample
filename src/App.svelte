@@ -1,5 +1,5 @@
 <script>
-	import Buttons from '../components/Button.svelte'
+	import Buttons from './components/Button.svelte'
 
 	let incrementalButtonText = ' + '
 	let decrementalButtonText = ' - '
